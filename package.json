@@ -1,5 +1,5 @@
 {
-  "name": "videojs-resolution-switcher",
+  "name": "videojs-resolution-switcher-beta",
   "version": "0.4.2",
   "main": "./lib/videojs-resolution-switcher.js",
   "author": {
@@ -12,13 +12,13 @@
       "name": "Pierre Kraft"
     }
   ],
-  "description": "Resolution switcher for video.js 5",
+  "description": "Resolution switcher for ",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kmoskwiak/videojs-resolution-switcher.git"
+    "url": "git@github.com:hefeng1208/videojs-resolution-switcher-beta.git"
   },
   "bugs": {
-    "url": "https://github.com/kmoskwiak/videojs-resolution-switcher/issues"
+    "url": "https://github.com/hefeng1208/videojs-resolution-switcher-beta/issues"
   },
   "license": "Apache-2.0",
   "keywords": [
